@@ -136,7 +136,7 @@ A 16-week intensive software engineering bootcamp. Working in a group setting fo
 
 A 10 week part time course where I learnt to build responsive websites with HTML, CSS, and JavaScript — using a versatile skill set with powerful applications. This course kick started my career change and I was able to transfer from a Delivery Management role to a Software Engineering role at the company I was working for at the time. 
 
-### Agile Project Management ® [Foundation and Practitioner](https://apmg-international.com/product/agile-project-management-agilepmr) 
+### [APMG](https://apmg-international.com/) - Agile Project Management  ® [Foundation and Practitioner](https://apmg-international.com/product/agile-project-management-agilepmr) 
 
 The course equipped me with offers a practical and repeatable methodology that achieves an ideal balance between the standards, rigour and visibility required for good project management, and the fast-pace, change and empowerment provided by Agile.
 
