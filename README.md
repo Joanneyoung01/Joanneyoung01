@@ -166,6 +166,8 @@ The course equipped me with offers a practical and repeatable methodology that a
 
 My blog where all of my Makers Academy was documented can be found on my blog [here](https://medium.com/@joanneyoung_).
 
+### What I am working on now? ###
+I have a fascination with Typescript, so I would like to look into learning this language as after reading blog articles about the security benefits (particularly on large code bases) of Typescript, this is something I am keen to work on in my next project.
 
 
 
