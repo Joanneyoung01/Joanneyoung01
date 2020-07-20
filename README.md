@@ -31,16 +31,14 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS Flex
 
 ## Projects
 
-|                  |                       |                        | 
-| :---------------: | :-------------------: | :--------------------: | 
-| <a href="https://github.com/Joanneyoung01/re-engage-volunteer-portal"><img width="1604" alt="" src="https://ibb.co/T8CKCk3" height="222">Reenage</a>[video](https://vimeo.com/user119631411/review/438595032/339ab95bcf) | <a href=""><img width="1604" alt="" src="https://ibb.co/hMt1nDk" height="222">hello</a> | <a href=""><img width="1604" alt="" src="https://ibb.co/Zhm4rQW" height="222"> Name</a> |
+|                  |                       |                        |
+| :---------------: | :-------------------: | :--------------------: |
+| <a href=""><img src="https://i.ibb.co/T8CKCk3/reengage.png" alt="reengage" border="0"/></a>[video](https://vimeo.com/user119631411/review/438595032/339ab95bcf) | <a href="https://ibb.co/hMt1nDk"><img src="https://i.ibb.co/BPSK7qm/acebook.png" alt="acebook" border="0" /></a> | <a href="https://ibb.co/Zhm4rQW"><img src="https://i.ibb.co/Zhm4rQW/spacedout.png" alt="spacedout" border="0" /></a> |
 |   Reengage Portal       |    Acebook      |  [Makers B&B](https://spacedout-makers-bnb.herokuapp.com/)   |
-| <a href=""><img width="1604" alt="" src="https://ibb.co/4KYyqky" height="222"></a> Reenage Volunteer Portal | <a href=""><img width="1604" alt="" src="https://ibb.co/fkDgMVG" height="222"></a> | <a href=""><img width="1604" alt="" src="https://ibb.co/SB6BNLY" height="222"> Name</a> |
-|    Weather API website  |  News Summary API   |   Personal portfolio   | 
-| <a href=""><img width="1604" alt="" src="https://ibb.co/sR3GW5g" height="222"></a> Reenage Volunteer Portal| <a href=""><img width="1604" alt="" src="https://ibb.co/zfJ9NHC" height="222">hello</a> | <a href=""><img width="1604" alt="" src="https://ibb.co/4KYyqky" height="222"> Name</a> |
-|    Bank Technical Test  |  Bowling Kata  |   Notes App   | 
-
-<img src="https://ibb.co/4KYyqky" alt="Girl in a jacket" width="500" height="600">
+| <a href="https://ibb.co/SB6BNLY"><img src="https://i.ibb.co/SB6BNLY/portfolio.png" alt="portfolio" border="0" /></a> | <a href="https://ibb.co/fkDgMVG"><img src="https://i.ibb.co/fkDgMVG/newsAPI.png" alt="newsAPI" border="0" /></a> | <img src="https://i.ibb.co/4KYyqky/weatherapi.png" alt="weatherapi" border="0" /> |
+|    Weather API website  |  News Summary API   |   Personal portfolio   |
+| <a href="https://ibb.co/sR3GW5g"><img src="https://i.ibb.co/sR3GW5g/bank.png" alt="bank" border="0" /></a> | <a href="https://ibb.co/zfJ9NHC"><img src="https://i.ibb.co/zfJ9NHC/bowling.png" alt="bowling" border="0" /></a> | <a href="https://ibb.co/Nmc1x8y"><img src="https://i.ibb.co/Nmc1x8y/thermostat-api.png" alt="thermostat-api" border="0" /></a> |
+|    Bank Technical Test  |  Bowling Kata  |   Thermostat API   |
 
 
 ## Skills
