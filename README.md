@@ -35,10 +35,8 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS Flex
 | :---------------: | :-------------------: | :--------------------: | 
 | <a href="https://github.com/Joanneyoung01/re-engage-volunteer-portal"><img width="1604" alt="" src="https://ibb.co/T8CKCk3" height="222"></a>Reenage Volunteer Portal<p>https://vimeo.com/user119631411/review/438595032/339ab95bcf</p> | <a href=""><img width="1604" alt="" src="https://ibb.co/hMt1nDk" height="222"></a> | <a href=""><img width="1604" alt="" src="https://ibb.co/Zhm4rQW" height="222"> Name</a> |
 |   Reengage Portal       |    Acebook      |  [Makers B&B](https://spacedout-makers-bnb.herokuapp.com/)   |
-
 | <a href=""><img width="1604" alt="" src="https://ibb.co/4KYyqky" height="222"></a> Reenage Volunteer Portal<p>https://vimeo.com/user119631411/review/438595032/339ab95bcf</p> | <a href=""><img width="1604" alt="" src="https://ibb.co/fkDgMVG" height="222"></a> | <a href=""><img width="1604" alt="" src="https://ibb.co/SB6BNLY" height="222"> Name</a> |
 |    Weather API website  |  News Summary API   |   Personal portfolio   | 
-
 | <a href=""><img width="1604" alt="" src="https://ibb.co/sR3GW5g" height="222"></a> Reenage Volunteer Portal<p>https://vimeo.com/user119631411/review/438595032/339ab95bcf</p> | <a href=""><img width="1604" alt="" src="https://ibb.co/zfJ9NHC" height="222"></a> | <a href=""><img width="1604" alt="" src="https://ibb.co/4KYyqky" height="222"> Name</a> |
 |    Bank Technical Test  |  Bowling Kata  |   Notes App   | 
 
