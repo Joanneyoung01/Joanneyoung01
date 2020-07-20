@@ -7,7 +7,7 @@
 
 
 <div align="center">
-[Projects](#projects) |[Skills](#skills) |[Education](#education) |[Experience](#experience) |[Interests](#hobbies-and-interests)
+[Projects](##projects) |[Skills](#skills) |[Education](#education) |[Experience](#experience) |[Interests](#hobbies-and-interests)
 </div>
 ---------
 
