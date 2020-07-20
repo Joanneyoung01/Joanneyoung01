@@ -7,7 +7,7 @@
 
 
 <div align="center">
-[Projects ](#projects) |[Skills ](#skills) |[Education ](#education) |[Experience ](#experience) |[Interests ](#hobbies-and-interests)
+[Projects](#projects) |[Skills](#skills) |[Education](#education) |[Experience](#experience) |[Interests](#hobbies-and-interests)
 </div>
 ---------
 
@@ -33,7 +33,7 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS Flex
 
 |                                                              |                                                              |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| <a href=""><img width="1604" alt="" src="/images/reengage.png" height="222" width="258"> Name</a>  | <a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>   | <a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>   | <a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>   |
+| <a href=""><img width="1604" alt="" src="/images/reengage.png" height="222" width="258"> Name</a>  | <a href=""><img width="1604" alt="" src="" height="222" width="258">Reenage Volunteer Portal</a>   | <a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>   | <a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>   |
 |                       Reengage Portal                        |                           Acebook                            |                          [Makers B&B](https://spacedout-makers-bnb.herokuapp.com/)                          | Personal Website                                             |
 | <<a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>  | <a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>  | <<a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>  | <a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a> |
 |                     Weather API website                      |                       News Summary API                       |                 Interview Question generator                 | Bank technical test                                          |
@@ -167,7 +167,7 @@ The course equipped me with offers a practical and repeatable methodology that a
 My blog where all of my Makers Academy was documented can be found on my blog [here](https://medium.com/@joanneyoung_).
 
 ### Hackathons
-Once a quarter my I participate in company Hackathons. The last Hackathon as a team of 4 we built a tool to help make reading company documents a fun experience. This was a website where as a user, so that I can view my goals and objectives for the following quarter in a fun and interactive way, and will display my document using common slang, as oppose to formal. This was built using a find and replace script which was built in Javascript. We won top project of the day out of 20 teams, and won £1000 to spend at a restaurant of our choice.
+Once a quarter my I participate in company Hackathons. The last Hackathon as a team of 4 we built a tool to help make reading company documents a fun experience. This was a website where as a user, so that they can view goals and objectives for the following quarter in a fun and interactive way, the app would display any given document using common slang, as oppose to formal language. This was built using a find and replace script which was built in Javascript. We won top project of the day out of 20 teams, and won £1000 to spend at a restaurant of our choice.
 
 
 ### What I am working on now? ###
