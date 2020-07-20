@@ -154,7 +154,7 @@ The course equipped me with offers a practical and repeatable methodology that a
 ## Hobbies and Interests
 
 - I love staying fit and healthy by going to the gym. I am a member at At Your Beat Dance Studio and Base Dance studios, where I go to dance classes a few times a week. I also like to mix this up with Yoga and Pilates.
-- I reguarly go to tech events in London, such as Codebar and Developher when I meet and network with others in similar industries. Since lockdown I have been going to the Developher virtual meet ups.
+- I reguarly go to tech events in London, such as Codebar and Developher when I meet and network with others in similar industries. Since lock down I have been going to the Developher virtual meet ups.
 - I volunteer for a charity - Re-engage ([www.reengage.org.uk](http://www.reengage.org.uk/)). This is a charity which connects volunteers to older citizens in the local community (usually 75+) in a bid to tackle loneliness and isolation among the elders. The group co-ordinator role is to organise tea parties for a small group of elders on a monthly basis on weekends. My final project at Makers was based on my volunteer work.
 - I have always been one for getting involved in multiple aspects of company life from social committees to Corporate Social Responsibility societies. I have been part of every social committee for every company I have worked for, even stemming back to university life where I was on the social secretary for the Leeds University Cheerleaders.
 
@@ -166,12 +166,12 @@ The course equipped me with offers a practical and repeatable methodology that a
 
 My blog where all of my Makers Academy was documented can be found on my blog [here](https://medium.com/@joanneyoung_).
 
-Hackathon:
-Once a quarter my former company Beamly, 
+### Hackathons
+Once a quarter my I participate in company Hackathons. The last Hackathon as a team of 4 we built a tool to help make reading company documents a fun experience. This was a website where as a user, so that I can view my goals and objectives for the following quarter in a fun and interactive way, and will display my document using common slang, as oppose to formal. This was built using a find and replace script which was built in Javascript. We won top project of the day out of 20 teams, and won £1000 to spend at a restaurant of our choice.
 
 
 ### What I am working on now? ###
-I have a fascination with Typescript, so I would like to look into learning this language as after reading blog articles about the security benefits (particularly on large code bases) of Typescript, this is something I am keen to work on in my next project.
+I have a fascination with Typescript, so I am currently building a project with the focus of learning this language as after reading blog articles about the security benefits (particularly on large code bases) of Typescript.
 
 
 
