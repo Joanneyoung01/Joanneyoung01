@@ -112,7 +112,7 @@ Managed content delivery and optimisation of UK + 5 International Miss Selfridge
 
 Created HTML email templates and campaigns for all 20 markets Designed and built web forms, surveys and pages Liaised and presented email performance insights to stakeholders
 
-## Education
+## Education and Qualifications
 
 ### Makers Academy - [Software Engineering](https://makers.tech/become/)
 
@@ -165,6 +165,10 @@ The course equipped me with offers a practical and repeatable methodology that a
 ### Technical Blogging
 
 My blog where all of my Makers Academy was documented can be found on my blog [here](https://medium.com/@joanneyoung_).
+
+Hackathon:
+Once a quarter my former company Beamly, 
+
 
 ### What I am working on now? ###
 I have a fascination with Typescript, so I would like to look into learning this language as after reading blog articles about the security benefits (particularly on large code bases) of Typescript, this is something I am keen to work on in my next project.
