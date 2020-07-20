@@ -31,12 +31,18 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS Flex
 
 ## Projects
 
-|                                                              |                                                              |                                                              |                                                              |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| <a href="https://github.com/Joanneyoung01/re-engage-volunteer-portal"><img width="1604" alt="" src="./images/reengage.png" height="222" width="258"></a>Reenage Volunteer Portal | <a href=""><img width="1604" alt="" src="" height="222" width="258"></a>   | <a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>   | <a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>   |
-|                       Reengage Portal                        |                           Acebook                            |                          [Makers B&B](https://spacedout-makers-bnb.herokuapp.com/)                          | Personal Website                                             |
-| <<a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>  | <a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>  | <<a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a>  | <a href=""><img width="1604" alt="" src="" height="222" width="258"> Name</a> |
-|                     Weather API website                      |                       News Summary API                       |                 Interview Question generator                 | Bank technical test                                          |
+|                   |                       |                        | 
+| :---------------: | :-------------------: | :--------------------: | 
+| <a href="https://github.com/Joanneyoung01/re-engage-volunteer-portal"><img width="1604" alt="" src="./images/reengage.png" height="222"></a>Reenage Volunteer Portal<p>https://vimeo.com/user119631411/review/438595032/339ab95bcf</p> | <a href=""><img width="1604" alt="" src="./images/acebook.png" height="222"></a> | <a href=""><img width="1604" alt="" src="./images/spacedout.png" height="222"> Name</a> |
+|   Reengage Portal       |    Acebook      |  [Makers B&B](https://spacedout-makers-bnb.herokuapp.com/)   |
+| <a href=""><img width="1604" alt="" src="./images/reengage.png" height="222"></a> Reenage Volunteer Portal<p>https://vimeo.com/user119631411/review/438595032/339ab95bcf</p> | <a href=""><img width="1604" alt="" src="./images/newsAPI.png" height="222"></a> | <a href=""><img width="1604" alt="" src="./images/portfolio.png" height="222"> Name</a> |
+|    Weather API website  |  News Summary API   |   Personal portfolio   | 
+
+
+Bank technical test
+personal website
+notes app
+
 
 ## Skills
 
@@ -90,27 +96,37 @@ When I joined Beamly, I realised from working so closely with developers that I 
 
 Contributed to the build of headless CMS product and design system using HTML 5, SCSS, JavaScript, React.js and Redux Updated and improved suite of components as part of a dedicated agile squad.
 
-Utilised component library to build pages and redesign websites, adhering to engineering principles - BEM/KISS/DRY code. Re-platformed brand websites Rimmel, Sally Hansen, Max Factor and Marc Jacobs within the larger development team from WordPress to React. Working on large codebases allowed me to work with legacy code aswell a build new react components. I am confident using Visual Studio Code to build and test code, Github and command line for version and branch control, GoCD and Fastly for pipeline instrumentation and cache management. Jira for ticket management and Confluence for documentation.
+- Utilised component library to build pages and redesign websites, adhering to engineering principles - BEM/KISS/DRY code. 
+- Re-platformed brand websites Rimmel, Sally Hansen, Max Factor and Marc Jacobs within the larger development team from WordPress to React. Working on large codebases allowed me to work with legacy code as well a build new react components 
+- I am confident using Visual Studio Code to build and test code, Github and command line for version and branch control, GoCD and Fastly for pipeline instrumentation and cache management. 
+- Jira for ticket management and Confluence for documentation.
 
 **Technical Delivery Manager** - Beamly - part of [Coty](https://www.coty.com/), London
 
 <div align="right">November 2017 - January 2019</div>
 
-First point of contact for 87 global clients, determined business needs and led team to deliver projects on budget and on time.
-
-Managed end-to-end innovative projects - interactive quiz campaign pages, chatbot and website builds across global markets. Led scrum ceremonies - stand ups, sprint planning, refinement and sprint reviews. Stakeholder management including gathering requirements, demonstrations and presenting KPI's Worked with in house and offshore development teams in Poland to ensure smooth and efficient workflow within agreed SLA's. Internally planning team resource, timeline, budgets and drawing up Statements of Work. Managed maintenance through Chrysalis ticketing system, prioritised web tickets based on business needs.
+- First point of contact for 87 global clients, determined business needs and led team to deliver projects on budget and on time.
+- Managed end-to-end innovative projects - interactive quiz campaign pages, chatbot and website builds across global markets. 
+- Led scrum ceremonies - stand ups, sprint planning, refinement and sprint reviews. Stakeholder management including gathering requirements, demonstrations and presenting KPI's
+- Worked with in house and offshore development teams in Poland to ensure smooth and efficient workflow within agreed SLA's. - Internally planning team resource, timeline, budgets and drawing up Statements of Work. 
+- Managed maintenance through Chrysalis ticketing system, prioritised web tickets based on business needs.
 
 **Digital Production Coordinator** - [Arcadia Group](https://www.arcadiagroup.co.uk/), London  
 
 <div align="right">October 2014 - October 2017</div>
 
-Managed content delivery and optimisation of UK + 5 International Miss Selfridge ecommerce websites, mobile sites and apps, managed a team of on-site digital assistants and off-shore developers in India. Product Owner for migration of 6 sites to a new responsive website, lead the A/B testing strategy working with third party 'Qubit' and trained team on platform. Managing all BAU content through CMS and product migration, improving order volumes by 5% and additional product filter attributes, increased CTR of 10%. Built up in-house email deployment team and trained staff on email service provider, HTML email campaign creation and processes, thus reducing cost by approx £20,000 a year. Selected from over 100 applicants to meet regularly with the CEO and highest stakeholder of Arcadia – Sir Philip Green to partake in extra projects. Promoted from Assistant to Coordinator, 6 months into the role.
+- Managed content delivery and optimisation of UK + 5 International Miss Selfridge ecommerce websites, mobile sites and apps, managed a team of on-site digital assistants and off-shore developers in India. 
+- Product Owner for migration of 6 sites to a new responsive website, lead the A/B testing strategy working with third party 'Qubit' and trained team on platform. 
+- Managed all BAU content through CMS and product migration, improving order volumes by 5% and additional product filter attributes, increased CTR of 10%. 
+- Built up in-house email deployment team and trained staff on email service provider, HTML email campaign creation and processes, thus reducing cost by approx £20,000 a year. 
+- Selected from over 100 applicants to meet regularly with the CEO and highest stakeholder of Arcadia – Sir Philip Green to partake in extra projects. Promoted from Assistant to Coordinator, 6 months into the role.
 
 **Digital Campaigns Assistant** - SAGE publications, London
 
 <div align="right">September 2013 - September 2014</div>
 
-Created HTML email templates and campaigns for all 20 markets Designed and built web forms, surveys and pages Liaised and presented email performance insights to stakeholders
+- Created HTML email templates and campaigns for all 20 markets Designed and built web forms, surveys and pages 
+- Liaised and presented email performance insights to stakeholders
 
 ## Education and Qualifications
 
