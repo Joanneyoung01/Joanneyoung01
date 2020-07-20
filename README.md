@@ -37,7 +37,7 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS Flex
 |   Reengage Portal       |    Acebook      |  [Makers B&B](https://spacedout-makers-bnb.herokuapp.com/)   |
 | <a href=""><img width="200" src="https://i.ibb.co/SB6BNLY/portfolio.png" alt="portfolio" border="0" /></a> | <a href=""><img width="200" src="https://i.ibb.co/fkDgMVG/newsAPI.png" alt="newsAPI" border="0" /></a> | <img width="200" src="https://i.ibb.co/4KYyqky/weatherapi.png" alt="weatherapi" border="0" /> |
 |    Weather API website  |  News Summary API   |   Personal portfolio   |
-| <a href=""><img width="200" src="https://i.ibb.co/sR3GW5g/bank.png" alt="bank" border="0" /></a> | <a href=""><img width="200" src="https://i.ibb.co/zfJ9NHC/bowling.png" alt="bowling" border="0" /></a> | <a href=""><img width="200" src="https://i.ibb.co/Nmc1x8y/thermostat-api.png" alt="thermostat-api" border="0" /></a> |
+| <a href=""><img width="200" src="https://i.ibb.co/sR3GW5g/bank.png" alt="bank" border="0" /></a> | <a href=""><img width="250" src="https://i.ibb.co/zfJ9NHC/bowling.png" alt="bowling" border="0" /></a> | <a href=""><img width="200" src="https://i.ibb.co/Nmc1x8y/thermostat-api.png" alt="thermostat-api" border="0" /></a> |
 |    Bank Technical Test  |  Bowling Kata  |   Thermostat API   |
 
 
