@@ -162,7 +162,7 @@ The course equipped me with offers a practical and repeatable methodology that a
 
 <div align="right">September 2010 - July 2013</div>
 
-- **Final Major Project:** As a student, I found it difficult to find adhoc jobs in my local area to help make ends meet. I created a website using PHP, Javascript, HTML and CSS which hosted jobs postings by employers, and students could sign up using their university email address and apply to jobs via a jobs board.
+- **Final Major Project:** As a student, I found it difficult to find adhoc jobs in my local area to help make ends meet. I created a website using PHP, Javascript, HTML and CSS which hosted jobs postings by employers, and students could sign up using their university email address and apply to jobs via a jobs board. Code can be found [here](https://github.com/Joanneyoung01/university-final-year-project).
 - **Core subjects:** History of the Web, Interface design, Accessibility, Project Delivery and Technical Coding modules. I selected PHP, SQL, Javacript, and HTML/CSS as my focussed technical languages.
 
 **Kesteven and Grantham Girls School** - A levels in Business, Media, Theatre and Dance.
