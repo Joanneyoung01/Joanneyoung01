@@ -33,11 +33,11 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS Flex
 
 |                  |                       |                        |
 | :---------------: | :-------------------: | :--------------------: |
-| <a href=""><img src="https://i.ibb.co/T8CKCk3/reengage.png" alt="reengage" border="0"/></a>[video](https://vimeo.com/user119631411/review/438595032/339ab95bcf) | <a href=""><img src="https://i.ibb.co/BPSK7qm/acebook.png" alt="acebook" border="0" /></a> | <a href=""><img src="https://i.ibb.co/Zhm4rQW/spacedout.png" alt="spacedout" border="0" /></a> |
+| <a href=""><img width="200" src="https://i.ibb.co/T8CKCk3/reengage.png" alt="reengage" border="0"/></a>[video](https://vimeo.com/user119631411/review/438595032/339ab95bcf) | <a href=""><img width="200" src="https://i.ibb.co/BPSK7qm/acebook.png" alt="acebook" border="0" /></a> | <a href=""><img width="200" src="https://i.ibb.co/Zhm4rQW/spacedout.png" alt="spacedout" border="0" /></a> |
 |   Reengage Portal       |    Acebook      |  [Makers B&B](https://spacedout-makers-bnb.herokuapp.com/)   |
-| <a href=""><img src="https://i.ibb.co/SB6BNLY/portfolio.png" alt="portfolio" border="0" /></a> | <a href=""><img src="https://i.ibb.co/fkDgMVG/newsAPI.png" alt="newsAPI" border="0" /></a> | <img src="https://i.ibb.co/4KYyqky/weatherapi.png" alt="weatherapi" border="0" /> |
+| <a href=""><img width="200" src="https://i.ibb.co/SB6BNLY/portfolio.png" alt="portfolio" border="0" /></a> | <a href=""><img width="200" src="https://i.ibb.co/fkDgMVG/newsAPI.png" alt="newsAPI" border="0" /></a> | <img width="200" src="https://i.ibb.co/4KYyqky/weatherapi.png" alt="weatherapi" border="0" /> |
 |    Weather API website  |  News Summary API   |   Personal portfolio   |
-| <a href=""><img src="https://i.ibb.co/sR3GW5g/bank.png" alt="bank" border="0" /></a> | <a href=""><img src="https://i.ibb.co/zfJ9NHC/bowling.png" alt="bowling" border="0" /></a> | <a href=""><img src="https://i.ibb.co/Nmc1x8y/thermostat-api.png" alt="thermostat-api" border="0" /></a> |
+| <a href=""><img width="200" src="https://i.ibb.co/sR3GW5g/bank.png" alt="bank" border="0" /></a> | <a href=""><img width="200" src="https://i.ibb.co/zfJ9NHC/bowling.png" alt="bowling" border="0" /></a> | <a href=""><img width="200" src="https://i.ibb.co/Nmc1x8y/thermostat-api.png" alt="thermostat-api" border="0" /></a> |
 |    Bank Technical Test  |  Bowling Kata  |   Thermostat API   |
 
 
