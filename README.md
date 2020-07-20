@@ -105,7 +105,8 @@ Contributed to the build of headless CMS product and design system using HTML 5,
 
 <div align="right">November 2017 - January 2019</div>
 
-- First point of contact for 87 global clients, determined business needs and led team to deliver projects on budget and on time.
+First point of contact for 87 global clients, determined business needs and led team to deliver projects on budget and on time.
+
 - Managed end-to-end innovative projects - interactive quiz campaign pages, chatbot and website builds across global markets. 
 - Led scrum ceremonies - stand ups, sprint planning, refinement and sprint reviews. Stakeholder management including gathering requirements, demonstrations and presenting KPI's
 - Worked with in house and offshore development teams in Poland to ensure smooth and efficient workflow within agreed SLA's. - Internally planning team resource, timeline, budgets and drawing up Statements of Work. 
@@ -115,7 +116,8 @@ Contributed to the build of headless CMS product and design system using HTML 5,
 
 <div align="right">October 2014 - October 2017</div>
 
-- Managed content delivery and optimisation of UK + 5 International Miss Selfridge ecommerce websites, mobile sites and apps, managed a team of on-site digital assistants and off-shore developers in India. 
+Managed content delivery and optimisation of UK + 5 International Miss Selfridge ecommerce websites, mobile sites and apps, managed a team of on-site digital assistants and off-shore developers in India. 
+
 - Product Owner for migration of 6 sites to a new responsive website, lead the A/B testing strategy working with third party 'Qubit' and trained team on platform. 
 - Managed all BAU content through CMS and product migration, improving order volumes by 5% and additional product filter attributes, increased CTR of 10%. 
 - Built up in-house email deployment team and trained staff on email service provider, HTML email campaign creation and processes, thus reducing cost by approx £20,000 a year. 
