@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/angelawolff/">
 <img src="./images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
-[Projects](##projects) |[Skills](#skills) |[Education](#education) |[Experience](#experience) |[Interests](#hobbies-and-interests)
+[Projects](##projects) |[Skills](##skills) |[Education](#education) |[Experience](#experience) |[Interests](#hobbies-and-interests)
 
 ---------
 
@@ -43,26 +43,38 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS, HTM
 
 ### Technical Skills:
 
-- JavaScript, Node and React - I comfortable tackling efforts solo or working in groups, both big and small
-- RESTful APIs - I am able to build using REST
+- JavaScript, Node and React - I have a variety of projects using full stack capabilities and comfortable tackling efforts solo or working in collaborative groups
+- RESTful APIs - I am able to build using REST to send and receive requests
 - TDD approach - Makers Academy taught me the importance of honing a test drive approach in order to test functionality and behavior first, whilst maintaining high code coverage via unit tests and acceptance tests.
-- Object Orientated Programming - 
-- Documentation writing - I am able to write clear and concise documentation for anything I write.
+- Object Orientated Programming - Able to write code by breaking the objects into classes and methods/functions.
+- Debugging - I have a calm and rational approach to debugging, by gaining visibility of the bug, and tightening the loop until this is fixed.
+- Documentation writing - I am able to write clear and concise documentation for anything I write, allowing for the next developer to understand the code
+
+**Maintenance and pipeline instrumentation** - I have deployed my individual projects using Github Marketplace actions
+- Codacy (checks code quality)
+- Synk (checks for security vulnerabilities)
+- Dependabot (automates dependancy updates)
+
+At Beamly I have previously used:
+- GoCD (piple instrumentation)
+- Fastly (cache management)
+- AWS: Elastic Compute Cloud (EC2) (cloud-computing platform)
 
 **Passionate about UI**
 
 During my time at Beamly my strengths were in being able to take a visual design in sketch, and transforming this into a fully functioning website/campaign page through Javascript, React and HTML/CSS, with pixel perfect precision. I collaborated well with the UX team and was able to help meet the delivery deadlines which delighted clients. 
 
+
 **Keen eye for code detail**
-Whilst replatforming the legacy websites to a new React set of components required redirecting legacy URLS to the new URLs, this taught me about regular expressions as all redirects were implemented through a JSON file, and required a keen eye for detail. Additionally this was sometimes in Russian or Chinese so required special attention.
+Whilst replatforming the legacy websites from Wordpress to React, this required redirecting legacy URLS to the new URLs. This taught me about regular expressions as all redirects were implemented through a JSON file, and required a keen eye for detail. Additionally this was sometimes in Russian or Chinese so required special attention.
 
 **Accessibility** - After Topshop was sued for lack of accessibility in 2018, this was due to alt images not having appropriate 'alt' tags and and colour contrasting below satisfactory standards, I suggested to the next company I worked for that this be addressed in order to avoid any legal issues in future.
 
-**Performance** - Whilst running site tests at Arcadia, I spotted that the images provided by the Design teams were very big and slowed site performance down. I suggested we reduce the imagery (whilst not compromising quality) for faster performance. This improved the website load speed by 50%.
+**Performance** - Whilst running site tests at Arcadia, I spotted that the images provided by the Design teams were very big and slowed site performance down. I suggested we reduce the imagery size (whilst not compromising quality) for faster site performance. This improved the website load speed by 50%, and could be seen on the Network tab.
 
-**UAT testing, A/B testing** - Whilst working at Arcadia, I was running site analytics on Adobe Omniture (homepage tracking report) and noticed that the homepage hero slider was not generating many clicks. We decided to run A/B testing to see if the website homepage could be improved, I coded a few different examples and the analytics proved over the coming months that this was the right decision as the second and third homepage slide was not being seen by users.
+**UAT testing, A/B testing** - Whilst working at Arcadia, I was running site analytics on Adobe Omniture (homepage tracking report) and noticed that the homepage hero's second and third image on the slider was not generating many clicks, therefore no traffic was reaching those pages. We decided to run A/B testing to see if the website homepage could be improved, I coded a few different examples and the analytics proved over the coming months that this was the right decision as the visitors preferred to see all imagery upon landing on the homepage.
 
-**Able to use technical knowledge** - When building a website for a new client, I used my knowledge gained from General assembly and when queried on how to mobile optimise, I suggested we as developers use a triple nested flexbox as the design was in a grid-like format so would be the best approach. This was because I had noticed that 80% of the audience was mobile users, so Mobile first decisions should be at the forefront of decision making and flexbox allowed this. We built the website using mobile first and it launched in 2019. 
+**Mobile first mentality** - When building a website for a new client, I used my knowledge gained from General assembly and when queried on how to mobile optimise, I suggested we as developers use a triple nested flexbox as the design was in a grid-like format so would be the best approach. This was because I had noticed that 80% of the audience was mobile users, so Mobile first decisions should be at the forefront of decision making and flexbox allowed this. We built the website using mobile first and it launched in 2019. 
 
 ### Soft Skills:
 
