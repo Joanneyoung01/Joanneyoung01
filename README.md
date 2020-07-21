@@ -60,13 +60,10 @@ At Beamly I have previously used:
 - Fastly (cache management)
 - AWS: Elastic Compute Cloud (EC2) (cloud-computing platform)
 
-**Passionate about UI**
-
-During my time at Beamly my strengths were in being able to take a visual design in sketch, and transforming this into a fully functioning website/campaign page through Javascript, React and HTML/CSS, with pixel perfect precision. I collaborated well with the UX team and was able to help meet the delivery deadlines which delighted clients. 
+**Passionate about UI** During my time at Beamly my strengths were in being able to take a visual design in sketch, and transforming this into a fully functioning website/campaign page through Javascript, React and HTML/CSS, with pixel perfect precision. I collaborated well with the UX team and was able to help meet the delivery deadlines which delighted clients. 
 
 
-**Keen eye for code detail**
-Whilst replatforming the legacy websites from Wordpress to React, this required redirecting legacy URLS to the new URLs. This taught me about regular expressions as all redirects were implemented through a JSON file, and required a keen eye for detail. Additionally this was sometimes in Russian or Chinese so required special attention.
+**Keen eye for code detail** Whilst replatforming the legacy websites from Wordpress to React, this required redirecting legacy URLS to the new URLs. This taught me about regular expressions as all redirects were implemented through a JSON file, and required a keen eye for detail. Additionally this was sometimes in Russian or Chinese so required special attention.
 
 **Accessibility** - After Topshop was sued for lack of accessibility in 2018, this was due to alt images not having appropriate 'alt' tags and and colour contrasting below satisfactory standards, I suggested to the next company I worked for that this be addressed in order to avoid any legal issues in future.
 
@@ -82,7 +79,7 @@ Whilst replatforming the legacy websites from Wordpress to React, this required 
 
 I developed this love furthermore on my course at Leeds University. My goal was to gain the right qualifications so that I could pursue a career in tech. From there I graduated and kick started a career in Project Management as I enjoyed the client facing element. I prided myself on the ability to empathize with the technical delivery teams through my experiences in development, this helped manage expectations between delivery teams and stakeholders.
 
-When I joined Beamly, I realised from working so closely with developers that I was fully able to become a developer and I believed in my abilities - I just needed some technical training, after attending Codebar and other meet ups i realised I needed formal technical training. In an effort to address this I enrolled on the front end development course at General Asssembly, this gave me the springboard needed to fulfil a lifelong goal to become a developer and I was able to transfer roles from PM to Software Engineer.
+Career change - When I joined Beamly, I realised from working so closely with developers that I was fully able to become a developer and I believed in my abilities - I just needed some technical training, after attending Codebar and other meet ups i realised I needed formal technical training. In an effort to address this I enrolled on the front end development course at General Asssembly, this gave me the springboard needed to fulfil a lifelong goal to become a developer and I was able to transfer roles from PM to Software Engineer.
 
 **Communication:**
 
