@@ -142,9 +142,9 @@ Managed content delivery and optimisation of UK + 5 International Miss Selfridge
 
 A 16-week intensive software engineering bootcamp. Working in a group setting following an Agile framework, using daily standups to ensure delivery of our target features. We used a TDD approach to create a series of fullstack applications using a combination of Ruby and Javascript with frameworks such as Node and React. 
 
-- A neverending curiousity for coding and new technologies
-- Always aiming to sharpen my toolset & craft well-written, readable code
-- Mentored a student, this helped embed the information I had learnt and enabled me to fully grasp key concepts of the course
+- Always aiming to sharpen my toolset & craft well-written, readable code 
+- Staying curious with new and popular technologies
+- Mentored a student in a later cohort, this helped embed the information I had learnt and enabled me to fully grasp key concepts of the course
 - Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
   - Languages: Ruby, JavaScript (and jQuery), HTML/CSS
   - Web Frameworks: Sinatra, node.js/Express
