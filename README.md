@@ -13,21 +13,21 @@
 
 **Introduction**
 
-Motivated and multi-faceted Junior Software Engineer. After my employer went into administration and being made redundant in March 2020, I decided to focus all of my time and energy into becoming a better developer, all whilst in Lockdown during a global pandemic - now I am on the search for new opportunities.
+Motivated and multi-faceted Junior Software Engineer. After my employer went into administration and being made redundant in March 2020, I decided to focus all of my time and energy into becoming a better developer - now I am on the search for new and exciting opportunities.
 
-I understand the development lifecycle in depth and am confident in all aspects of development from writing clean test driven code, through to domain modelling and documentation. I am a fast learner and extremely enthusiastic about technology and digital products. My industry experience in Ecommerce, Content Management Systems, Atomic Design and Headless Architecture would prove valuable to any business.
+I can understand the development lifecycle in depth and am confident in all aspects of development from writing clean test driven code, through to domain modelling,documentation and maintenance. I am a fast learner and extremely enthusiastic about technology and digital products. My industry experience in E-commerce, Content Management Systems, Atomic Design and Headless Architecture would prove valuable to any business.
 
 **Background**
 
-After 6+ years in the tech industry, this provided key commercial experience and developed vast transferable skills such as communication, teamwork, and organisation. Such examples are in addition to the programming skills gained at Makers Academy and General Assembly. I am familar with working in tech teams from both a Software Engineering and Agile delivery stand point this, I feel gives me a unique ability to add value to any team.
+After 6+ years in the tech industry, this provided key commercial experience and developed vast transferable skills such as communication, teamwork, and organisation. Such examples are in addition to the technical programming skills gained at my former company, Makers Academy and General Assembly. I am familiar with working in tech teams from both a Software Engineering and Agile delivery stance, this I feel gives me a unique ability to add value to a business.
 
 **Objective**
 
-I'm looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technology stacks and skills. 
+I'm looking to work for an organisation where I can make a meaningful contribution, learn a lot and make a difference to the business success. I am a fast learner, and I am willing and enthusiastic to learn new technology stacks and skills. 
 
 **Key Technologies**
 
-JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS Flexbox, CSS Grid, HTML.
+JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS, HTML.
 
 ## Projects
 
@@ -51,29 +51,20 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS Flex
 - Object Orientated Programming - 
 - Documentation writing - I am able to write clear and concise documentation for anything I write.
 
-**Communication:**
-
-My commercial years in E-commerce and agile delivery provided me with the foundations for clear and concise communication with internal and external teams. I developed skills whereby I was able to communicate with teams on the day to day delivery with internal product or UX teams, as well as stakeholders on the project delivery status updates and showcasing the product build. Relaying what can sometimes be technical jargon into layman's terms was an important skill as it allowed for clear communication and cross-function collaboration.
-
-Presenting products at the weekly 'show and tell meetings'.
-
 **Passionate about UI**
 
 During my time at Beamly my strengths were in being able to take a visual design in sketch, and transforming this into a fully functioning website/campaign page through Javascript, React and HTML/CSS, with pixel perfect precision. I collaborated well with the UX team and was able to help meet the delivery deadlines which delighted clients. 
 
-Redirects - taught me about regex
+**Keen eye for code detail**
+Whilst replatforming the legacy websites to a new React set of components required redirecting legacy URLS to the new URLs, this taught me about regular expressions as all redirects were implemented through a JSON file, and required a keen eye for detail. Additionally this was sometimes in Russian or Chinese so required special attention.
 
-Agile process changing - Scoped a project for delivery but the clients needs changed so as an engineer our priorities changed
+**Accessibility** - After Topshop was sued for lack of accessibility in 2018, this was due to alt images not having appropriate 'alt' tags and and colour contrasting below satisfactory standards, I suggested to the next company I worked for that this be addressed in order to avoid any legal issues in future.
 
-Tight deadlines - we had 2 weeks to build and deliver a website
+**Performance** - Whilst running site tests at Arcadia, I spotted that the images provided by the Design teams were very big and slowed site performance down. I suggested we reduce the imagery (whilst not compromising quality) for faster performance. This improved the website load speed by 50%.
 
-Accessibility - After topshop was sued for lack of accessibility, alt images and colour contrasting i suggested to beamly that this be addressed
+**UAT testing, A/B testing** - Whilst working at Arcadia, I was running site analytics on Adobe Omniture and noticed that the homepage hero slider was not generating many clicks. We decided to run A/B testing to see if the website homepage could be improved, I coded a few different examples and the analytics proved over the coming months that this was the right decision as the second and third homepage slide was not being seen by users.
 
-Performance - reduced imagery sizes down for faster performance
-
-UAT testing, A/B testing 
-
-Able to speak to global teams - When building kodo website, i suggested they use flexbox so that the mobile responsiveness is optimised 
+**Able to use technical knowledge ** - When building a website for a new client, I used my knowledge gained from General assembly I suggested we as developers use flexbox so that the mobile responsiveness is optimised for all customers. This was because I had noticed that 80% of the audience was mobile users, so Mobile first decisions should be at the forefront of decision making.
 
 ### Soft Skills:
 
@@ -81,9 +72,18 @@ Able to speak to global teams - When building kodo website, i suggested they use
 
 I developed this love furthermore on my course at Leeds University. My goal was to gain the right qualifications so that I could pursue a career in tech. From there I graduated and kick started a career in Project Management as I enjoyed the client facing element. I prided myself on the ability to empathize with the technical delivery teams through my experiences in development, this helped manage expectations between delivery teams and stakeholders.
 
-When I joined Beamly, I realised from working so closely with developers that I was fully able to become a developer and I believed in my abilities - I just needed some technical training, after attending codebar and other meet ups i realised I needed formal technical training. In an effort to address this I enrolled on the front end development course at General Asssembly, this gave me the springboard needed to fulfil a lifelong goal to become a developer and I was able to transfer roles from PM to Software Engineer.
+When I joined Beamly, I realised from working so closely with developers that I was fully able to become a developer and I believed in my abilities - I just needed some technical training, after attending Codebar and other meet ups i realised I needed formal technical training. In an effort to address this I enrolled on the front end development course at General Asssembly, this gave me the springboard needed to fulfil a lifelong goal to become a developer and I was able to transfer roles from PM to Software Engineer.
+
+**Communication:**
+
+My commercial experience in E-commerce and agile delivery provided me with the foundations for clear and concise communication with internal and external teams. I developed skills whereby I was able to communicate with teams regarding the day to day delivery with internal product, UX or QA teams, as well as stakeholders on the project delivery status updates and showcasing the product build as part of an Agile process. Relaying what can sometimes be technical jargon into layman's terms was an important skill as it allowed for clear communication and cross-function collaboration.
+
+Presenting project/product launches at the weekly 'show and tell meetings' which were held by the company on a weekly basis, allowed me to develop my presenting skills.
 
 **Leadership:** My previous experience leading scrum ceremonies lended itself to the Makers Academy course, as I wanted to contribute to the build process at makers by helping run these within the team and cohort.
+
+**Adapatable** - The scope for a project would often change, as per clients needs. For example, in 2019 we had 2 weeks to deliver a new website for the Max Factor Swedish market, this had press attached to it so the deadline fixed. As the clients needs changed due to a change in branding, the engineering team's priorities changed in order to accommodate this. This taught me to be adaptable in the face of change, and not to be precious about code.
+
 
 ## Experience
 
