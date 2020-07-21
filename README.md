@@ -88,7 +88,7 @@ When I joined Beamly, I realised from working so closely with developers that I 
 
 My commercial experience in E-commerce and agile delivery provided me with the foundations for clear and concise communication with internal and external teams. I developed skills whereby I was able to communicate with teams regarding the day to day delivery with internal product, UX or QA teams, as well as stakeholders on the project delivery status updates and showcasing the product build as part of an Agile process. Relaying what can sometimes be technical jargon into layman's terms was an important skill as it allowed for clear communication and cross-function collaboration.
 
-Presenting project/product launches at the weekly 'show and tell meetings' which were held by the company on a weekly basis, allowed me to develop my presenting skills.
+**Presenting to large and small audiences** - In my last role I would present project/product launches at the weekly company wide (London HQ, New York, Paris and Brazil) 'show and tell meetings', allowed me to develop my presenting skills and gained confidence in speaking to large crowds.
 
 **Leadership:** My previous experience leading scrum ceremonies lended itself to the Makers Academy course, as I wanted to contribute to the build process at makers by helping run these within the team and cohort.
 
