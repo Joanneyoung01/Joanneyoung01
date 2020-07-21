@@ -5,10 +5,8 @@
 <a href="https://www.linkedin.com/in/angelawolff/">
 <img src="./images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
-
-<div align="center">
 [Projects](##projects) |[Skills](#skills) |[Education](#education) |[Experience](#experience) |[Interests](#hobbies-and-interests)
-</div>
+
 ---------
 
 **Introduction**
@@ -62,9 +60,9 @@ Whilst replatforming the legacy websites to a new React set of components requir
 
 **Performance** - Whilst running site tests at Arcadia, I spotted that the images provided by the Design teams were very big and slowed site performance down. I suggested we reduce the imagery (whilst not compromising quality) for faster performance. This improved the website load speed by 50%.
 
-**UAT testing, A/B testing** - Whilst working at Arcadia, I was running site analytics on Adobe Omniture and noticed that the homepage hero slider was not generating many clicks. We decided to run A/B testing to see if the website homepage could be improved, I coded a few different examples and the analytics proved over the coming months that this was the right decision as the second and third homepage slide was not being seen by users.
+**UAT testing, A/B testing** - Whilst working at Arcadia, I was running site analytics on Adobe Omniture (homepage tracking report) and noticed that the homepage hero slider was not generating many clicks. We decided to run A/B testing to see if the website homepage could be improved, I coded a few different examples and the analytics proved over the coming months that this was the right decision as the second and third homepage slide was not being seen by users.
 
-**Able to use technical knowledge ** - When building a website for a new client, I used my knowledge gained from General assembly I suggested we as developers use flexbox so that the mobile responsiveness is optimised for all customers. This was because I had noticed that 80% of the audience was mobile users, so Mobile first decisions should be at the forefront of decision making.
+**Able to use technical knowledge** - When building a website for a new client, I used my knowledge gained from General assembly and when queried on how to mobile optimise, I suggested we as developers use a triple nested flexbox as the design was in a grid-like format so would be the best approach. This was because I had noticed that 80% of the audience was mobile users, so Mobile first decisions should be at the forefront of decision making and flexbox allowed this. We built the website using mobile first and it launched in 2019. 
 
 ### Soft Skills:
 
