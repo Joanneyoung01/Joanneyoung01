@@ -17,11 +17,11 @@ I can understand the development lifecycle in depth and am confident in all aspe
 
 **Background**
 
-After 6+ years in the tech industry, this provided key commercial experience and developed vast transferable skills such as communication, teamwork, and organisation. Such examples are in addition to the technical programming skills gained at my former company, Makers Academy and General Assembly. I am familiar with working in tech teams from both a Software Engineering and Agile delivery stance, this I feel gives me a unique ability to add value to a business.
+After 6+ years in the tech industry, this provided key commercial experience and developed vast transferable skills such as communication, teamwork, and organisation. Such examples are in addition to the technical programming skills gained at Makers Academy and General Assembly. I am familiar with working in tech teams from both a Software Engineering and Agile delivery stance, this I feel gives me a unique ability to add value to a business.
 
 **Objective**
 
-I'm looking to work for an organisation where I can make a meaningful contribution, learn a lot and make a difference to the business success. I am a fast learner, and I am willing and enthusiastic to learn new technology stacks and skills. 
+I'm looking to work for an organisation where I can make a meaningful contribution, learn a lot and have a positive impact on team success. I am a fast learner, and I am willing and enthusiastic to learn new technology stacks and skills. 
 
 **Key Technologies**
 
