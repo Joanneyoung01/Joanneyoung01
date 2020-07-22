@@ -5,8 +5,15 @@
 <a href="https://www.linkedin.com/in/joannerachelyoung/">
 <img src="https://i.ibb.co/Vt9MR4t/linkedincircle.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
-<center>[Projects](#projects) |[Skills](##skills) |[Education](#education) |[Experience](#experience) |[Interests](#hobbies-and-interests)</center>
+<div align="center">
 
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Education ](#education) |
+[Experience ](#experience) |
+[Interests ](#hobbies-and-interests)
+
+</div>
 ---------
 
 **Introduction**
