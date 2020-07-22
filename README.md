@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/angelawolff/">
 <img src="./images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
-[Projects](##projects) |[Skills](##skills) |[Education](#education) |[Experience](#experience) |[Interests](#hobbies-and-interests)
+<center>[Projects](#projects) |[Skills](##skills) |[Education](#education) |[Experience](#experience) |[Interests](#hobbies-and-interests)</center>
 
 ---------
 
@@ -73,23 +73,6 @@ At Beamly I have previously used:
 
 **Mobile first mentality** - When building a website for a new client, I used my knowledge gained from General assembly and when queried on how to mobile optimise, I suggested we as developers use a triple nested flexbox as the design was in a grid-like format so would be the best approach. This was because I had noticed that 80% of the audience was mobile users, so Mobile first decisions should be at the forefront of decision making and flexbox allowed this. We built the website using mobile first and it launched in 2019. 
 
-### Soft Skills:
-
-**Motivated Self Starter:** My love for coding started when I was in my teenage years. From the confines of my bedroom I taught myself how to develop a simple HTML/CSS website, learning from trial and error, research and asking the right questions. I loved the instant gratification of programming my own website using Adobe Photoshop and Dreamweaver. I turned this skill into entrepreneurship as I was asked to create bespoke Myspace Layouts, accepting payments via Paypal from overseas clients - as a 14 year old kid who had little to no business experience this was pretty good going. 
-
-I developed this love furthermore on my course at Leeds University. My goal was to gain the right qualifications so that I could pursue a career in tech. From there I graduated and kick started a career in Project Management as I enjoyed the client facing element. I prided myself on the ability to empathize with the technical delivery teams through my experiences in development, this helped manage expectations between delivery teams and stakeholders.
-
-Career change - When I joined Beamly, I realised from working so closely with developers that I was fully able to become a developer and I believed in my abilities - I just needed some technical training, after attending Codebar and other meet ups i realised I needed formal technical training. In an effort to address this I enrolled on the front end development course at General Asssembly, this gave me the springboard needed to fulfil a lifelong goal to become a developer and I was able to transfer roles from PM to Software Engineer.
-
-**Communication and social skills:** I pride myself of being a 'peoples person'. My commercial experience in E-commerce and agile delivery provided me with the foundations for clear and concise communication with internal and external teams. I developed skills whereby I was able to communicate with teams regarding the day to day delivery with internal product, UX or QA teams, as well as stakeholders on the project delivery status updates and showcasing the product build as part of an Agile process. Relaying what can sometimes be technical jargon into layman's terms was an important skill as it allowed for clear communication and cross-function collaboration.
-
-**Presenting to large and small audiences** - In my last role I would present project/product launches at the weekly company wide (London HQ, New York, Paris and Brazil) 'show and tell meetings', allowed me to develop my presenting skills and gained confidence in speaking to large crowds.
-
-**Leadership:** My previous experience leading scrum ceremonies lended itself to the Makers Academy course, as I wanted to contribute to the build process at makers by helping run these within the team and cohort.
-
-**Adapatable** - The scope for a project would often change, as per clients needs. For example, in 2019 we had 2 weeks to deliver a new website for the Max Factor Swedish market, this had press attached to it so the deadline fixed. As the clients needs changed due to a change in branding, the engineering team's priorities changed in order to accommodate this. This taught me to be adaptable in the face of change, and not to be precious about code.
-
-
 ## Experience
 
 **Junior Software Engineer** - Beamly - part of [Coty](https://www.coty.com/), London     
@@ -151,7 +134,7 @@ A 16-week intensive software engineering bootcamp. Working in a group setting fo
   - CI/CD: Travis CI, Heroku
 
 ### General Assembly - [Front End Development](https://generalassemb.ly/education/front-end-web-development/london)
-
+ 
 <div align="right">October 2018 - December 2019</div>
 
 A 10 week part time course where I learnt to build responsive websites with HTML, CSS, and JavaScript — using a versatile skill set with powerful applications. This course kick started my career change and I was able to transfer from a Delivery Management role to a Software Engineering role at the company I was working for at the time. 
@@ -169,17 +152,22 @@ The course equipped me with offers a practical and repeatable methodology that a
 
 **Kesteven and Grantham Girls School** - A levels in Business, Media, Theatre and Dance.
 
+### Soft Skills:
+
+**Communication and social skills:** I pride myself of being a 'peoples person'. My commercial experience provided me with the foundations for clear and concise communication with internal and external teams. I was able to communicate with teams regarding the day to day business with internal project/product managers, UX and QA teams, as well as stakeholders on status updates and showcasing the product build. Relaying what can sometimes be technical jargon into layman's terms was an important skill as it allowed for clear communication and cross-function collaboration.
+
+**Presenting to large and small audiences** - In my last role I would regularly present project/product launches at the weekly company wide (London HQ, New York, Paris and Brazil) 'show and tell meetings', this developed my presenting skills and I gained confidence in speaking to large crowds.
+
+**Adapatable** - The scope for a project would often change, as per clients needs. For example, in 2019 we had 2 weeks to deliver a new website for the Max Factor Swedish market, this had press attached to it so the deadline fixed. As the clients needs changed due to a change in branding, the engineering team's priorities changed in order to accommodate this. This taught me to be adaptable in the face of change, and not to be precious about code.
 
 
 ## Hobbies and Interests
-
 - I love staying fit and healthy by going to the gym. I am a member at At Your Beat Dance Studio and Base Dance studios, where I go to dance classes a few times a week. I also like to mix this up with Yoga and Pilates.
 - I reguarly go to tech events in London, such as Codebar and Developher when I meet and network with others in similar industries. Since lock down I have been going to the Developher virtual meet ups.
-- I volunteer for a charity - Re-engage ([www.reengage.org.uk](http://www.reengage.org.uk/)). This is a charity which connects volunteers to older citizens in the local community (usually 75+) in a bid to tackle loneliness and isolation among the elders. The group co-ordinator role is to organise tea parties for a small group of elders on a monthly basis on weekends. My final project at Makers was based on my volunteer work.
+- I volunteer for a charity - Re-engage ([www.reengage.org.uk](http://www.reengage.org.uk/)). This is a charity which connects volunteers to older citizens in the local community (usually 75+) in a bid to tackle loneliness and isolation among the elders. The group coordinator role is to organise tea parties for a small group of elders on a monthly basis on weekends. My final project at Makers was based on my volunteer work.
 - I have always been one for getting involved in multiple aspects of company life from social committees to Corporate Social Responsibility societies. I have been part of every social committee for every company I have worked for, even stemming back to university life where I was on the social secretary for the Leeds University Cheerleaders.
 
-**Fun fact: I am a qualifed scuba diver**
-
+**Fun fact: I am a qualified scuba diver**
 
 
 ### Technical Blogging
