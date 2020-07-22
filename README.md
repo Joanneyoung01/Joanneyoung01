@@ -8,8 +8,8 @@
 <div align="center">
 
 [Projects ](#projects) |
-[Skills ](#technicalskills) |
-[Education ](#EducationandQualifications) |
+[Skills ](#technical-skills) |
+[Education ](#education-and-qualifications) |
 [Experience ](#experience) |
 [Interests ](#hobbies-and-interests)
 
