@@ -38,12 +38,12 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS, HTM
 
 |                  |                       |                        |
 | :---------------: | :-------------------: | :--------------------: |
-| <a href=""><img width="200" src="https://i.ibb.co/T8CKCk3/reengage.png" alt="reengage" border="0"/></a> | <a href=""><img width="200" src="https://i.ibb.co/BPSK7qm/acebook.png" alt="acebook" border="0" /></a> | <a href=""><img width="200" src="https://i.ibb.co/Zhm4rQW/spacedout.png" alt="spacedout" border="0" /></a> |
+| <a href="https://github.com/Joanneyoung01/re-engage-volunteer-portal" target="blank"><img width="200" src="https://i.ibb.co/T8CKCk3/reengage.png" alt="reengage" border="0"/></a> | <a href="https://github.com/Joanneyoung01/acebook" target="blank"><img width="200" src="https://i.ibb.co/BPSK7qm/acebook.png" alt="acebook" border="0" /></a> | <a href="https://github.com/Joanneyoung01/spacedout-airbnb" target="blank"><img width="200" src="https://i.ibb.co/Zhm4rQW/spacedout.png" alt="spacedout" border="0" /></a> |
 |   Reengage Portal <p>[video](https://vimeo.com/user119631411/review/438595032/339ab95bcf)</p>       |    Acebook      |  [Makers B&B](https://spacedout-makers-bnb.herokuapp.com/)   |
-| <a href=""><img width="200" src="https://i.ibb.co/SB6BNLY/portfolio.png" alt="portfolio" border="0" /></a> | <a href=""><img width="200" src="https://i.ibb.co/fkDgMVG/newsAPI.png" alt="newsAPI" border="0" /></a> | <img width="200" src="https://i.ibb.co/4KYyqky/weatherapi.png" alt="weatherapi" border="0" /> |
-|    Weather API website  |  News Summary API   |   Personal portfolio   |
-| <a href=""><img width="200" src="https://i.ibb.co/sR3GW5g/bank.png" alt="bank" border="0" /></a> | <a href=""><img width="250" src="https://i.ibb.co/zfJ9NHC/bowling.png" alt="bowling" border="0" /></a> | <a href=""><img width="200" src="https://i.ibb.co/Nmc1x8y/thermostat-api.png" alt="thermostat-api" border="0" /></a> |
-|    Bank Technical Test  |  Bowling Kata  |   Thermostat API   |
+| <a href="https://github.com/Joanneyoung01/joanneyoungportfolio" target="blank"><img width="200" src="https://i.ibb.co/SB6BNLY/portfolio.png" alt="portfolio" border="0" /></a> | <a href="" target="blank"><img width="200" src="https://i.ibb.co/fkDgMVG/newsAPI.png" alt="newsAPI" border="0" /></a> | <a href="https://github.com/Joanneyoung01/weather-app" target="blank"><img width="200" src="https://i.ibb.co/4KYyqky/weatherapi.png" alt="weatherapi" border="0" /> <a href="http://joanneyoung-weather-app.herokuapp.com/">Deployed</a>|
+|    Personal Portfolio  |  News Summary API   |   Weather API app  |
+| <a href="https://github.com/Joanneyoung01/bank-technical-test" target="blank"><img width="200" src="https://i.ibb.co/sR3GW5g/bank.png" alt="bank" border="0" /></a> | <a href="" target="blank"><img width="250" src="https://i.ibb.co/zfJ9NHC/bowling.png" alt="bowling" border="0" /></a> | <a href="https://github.com/Joanneyoung01/thermostat" target="blank"><img width="200" src="https://i.ibb.co/Nmc1x8y/thermostat-api.png" alt="thermostat-api" border="0" /></a> |
+|    Bank Technical Test  |  Bowling Kata  |   Thermostat API app   |
 
 
 ## Technical Skills:
@@ -80,7 +80,7 @@ At Beamly I have previously used:
 
 ## Experience
 
-**Junior Software Engineer** - Beamly - part of [Coty](https://www.coty.com/), London     
+**Junior Software Engineer** - Beamly - part of [Coty](https://www.coty.com/),London     
 
 <div align="right">January 2019 - March 2020</div>
 
@@ -165,6 +165,13 @@ The course equipped me with offers a practical and repeatable methodology that a
 
 **Adapatable** - The scope for a project would often change, as per clients needs. For example, in 2019 we had 2 weeks to deliver a new website for the Max Factor Swedish market, this had press attached to it so the deadline fixed. As the clients needs changed due to a change in branding, the engineering team's priorities changed in order to accommodate this. This taught me to be adaptable in the face of change, and not to be precious about code.
 
+### Technical Blogging
+
+My blog where all of my Makers Academy was documented can be found on my blog [here](https://medium.com/@joanneyoung_).
+
+### Hackathons
+Once a quarter my I participate in company Hackathons. The last Hackathon as a team of 4 we built a tool to help make reading company documents a fun experience. This was a website where as a user, so that they can view goals and objectives for the following quarter in a fun and interactive way, the app would display any given document using common slang, as oppose to formal language. This was built using a find and replace script which was built in Javascript. We won top project of the day out of 20 teams, and won £1000 to spend at a restaurant of our choice.
+
 
 ## Hobbies and Interests
 - I love staying fit and healthy by going to the gym. I am a member at At Your Beat Dance Studio and Base Dance studios, where I go to dance classes a few times a week. I also like to mix this up with Yoga and Pilates.
@@ -173,14 +180,6 @@ The course equipped me with offers a practical and repeatable methodology that a
 - I have always been one for getting involved in multiple aspects of company life from social committees to Corporate Social Responsibility societies. I have been part of every social committee for every company I have worked for, even stemming back to university life where I was on the social secretary for the Leeds University Cheerleaders.
 
 **Fun fact: I am a qualified scuba diver**
-
-
-### Technical Blogging
-
-My blog where all of my Makers Academy was documented can be found on my blog [here](https://medium.com/@joanneyoung_).
-
-### Hackathons
-Once a quarter my I participate in company Hackathons. The last Hackathon as a team of 4 we built a tool to help make reading company documents a fun experience. This was a website where as a user, so that they can view goals and objectives for the following quarter in a fun and interactive way, the app would display any given document using common slang, as oppose to formal language. This was built using a find and replace script which was built in Javascript. We won top project of the day out of 20 teams, and won £1000 to spend at a restaurant of our choice.
 
 
 ### What I am working on now? ###
