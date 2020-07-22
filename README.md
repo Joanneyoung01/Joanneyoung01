@@ -1,9 +1,9 @@
 <h1 align="center">Joanne Young</h1>
 <p align="center">
-<a href="https://medium.com/@warriorwomenblog">
-<img src="./images/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
-<a href="https://www.linkedin.com/in/angelawolff/">
-<img src="./images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+<a href="https://medium.com/@joanneyoung_">
+<img src="https://i.ibb.co/YBC9r8c/medium.png" alt="medium" hspace="50" height="42" width="42"></a>
+<a href="https://www.linkedin.com/in/joannerachelyoung/">
+<img src="https://i.ibb.co/Vt9MR4t/linkedincircle.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 <center>[Projects](#projects) |[Skills](##skills) |[Education](#education) |[Experience](#experience) |[Interests](#hobbies-and-interests)</center>
 
