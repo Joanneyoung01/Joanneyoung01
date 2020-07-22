@@ -186,7 +186,7 @@ Once a quarter my I participate in company Hackathons. The last Hackathon as a t
 
 
 ### What I am working on now? ###
-I have a fascination with Typescript, so I am currently building a project with the focus of learning this language as after reading blog articles about the security benefits (particularly on large code bases) of Typescript.
+I have a keen interest in Typescript, so I am currently building a project with the focus of learning this language as after reading blog articles about the security benefits (particularly on large code bases) of Typescript.
 
 
 
