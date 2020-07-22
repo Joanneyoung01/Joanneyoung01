@@ -39,9 +39,7 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS, HTM
 |    Bank Technical Test  |  Bowling Kata  |   Thermostat API   |
 
 
-## Skills
-
-### Technical Skills:
+## Technical Skills:
 
 - JavaScript, Node and React - I have a variety of projects using full stack capabilities and comfortable tackling efforts solo or working in collaborative groups
 - RESTful APIs - I am able to build using REST to send and receive requests
@@ -152,7 +150,7 @@ The course equipped me with offers a practical and repeatable methodology that a
 
 **Kesteven and Grantham Girls School** - A levels in Business, Media, Theatre and Dance.
 
-### Soft Skills:
+## Soft Skills:
 
 **Communication and social skills:** I pride myself of being a 'peoples person'. My commercial experience provided me with the foundations for clear and concise communication with internal and external teams. I was able to communicate with teams regarding the day to day business with internal project/product managers, UX and QA teams, as well as stakeholders on status updates and showcasing the product build. Relaying what can sometimes be technical jargon into layman's terms was an important skill as it allowed for clear communication and cross-function collaboration.
 
