@@ -36,6 +36,8 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS, HTM
 
 ## Projects
 
+<div align="center">
+
 |                  |                       |                        |
 | :---------------: | :-------------------: | :--------------------: |
 | <a href="https://github.com/Joanneyoung01/re-engage-volunteer-portal" target="blank"><img width="200" src="https://i.ibb.co/T8CKCk3/reengage.png" alt="reengage" border="0"/></a> | <a href="https://github.com/Joanneyoung01/acebook" target="blank"><img width="200" src="https://i.ibb.co/BPSK7qm/acebook.png" alt="acebook" border="0" /></a> | <a href="https://github.com/Joanneyoung01/spacedout-airbnb" target="blank"><img width="200" src="https://i.ibb.co/Zhm4rQW/spacedout.png" alt="spacedout" border="0" /></a> |
@@ -45,6 +47,7 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS, HTM
 | <a href="https://github.com/Joanneyoung01/bank-technical-test" target="blank"><img width="200" src="https://i.ibb.co/sR3GW5g/bank.png" alt="bank" border="0" /></a> | <a href="" target="blank"><img width="200" src="https://i.ibb.co/zfJ9NHC/bowling.png" alt="bowling" border="0" /></a> | <a href="https://github.com/Joanneyoung01/thermostat" target="blank"><img width="200" src="https://i.ibb.co/Nmc1x8y/thermostat-api.png" alt="thermostat-api" border="0" /></a> |
 |    Bank Technical Test  |  Bowling Kata  |   Thermostat API app   |
 
+</div>
 
 ## Technical Skills:
 
