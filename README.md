@@ -72,7 +72,7 @@ At Beamly I have previously used:
 
 **Keen eye for code detail** while re-platforming the legacy websites from WordPress to React, this required redirecting legacy URLs to the new URLs, this taught me about regular expressions as all redirects were implemented through a JSON file, and needed a keen eye for detail. Additionally, this was sometimes in Russian or Chinese, so required special attention.
 
-** Accessibility** - After Topshop was sued for lack of accessibility in 2018, this was due to alt images not having appropriate 'alt' tags and colour contrasting below satisfactory standards. I suggested to the next company I worked for that this be addressed to avoid any legal issues in future.
+**Accessibility** - After Topshop was sued for lack of accessibility in 2018, this was due to alt images not having appropriate 'alt' tags and colour contrasting below satisfactory standards. I suggested to the next company I worked for that this be addressed to avoid any legal issues in future.
 
 **Performance** - While running site tests at Arcadia, I spotted that the images provided by the Design teams were huge and slowed site performance down. I suggested we reduce the imagery size (while not compromising quality) for faster site performance; This improved the website load speed by 50%.
 
