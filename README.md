@@ -128,7 +128,7 @@ Managed content delivery and optimisation of UK + 5 International Miss Selfridge
 
 <div align="right">March 2020 - July 2020</div>
 
-I was a student on a 16-week intensive software engineering boot camp. I was working in a group setting following an Agile framework, using daily standups to ensure delivery of our target features. We used a TDD approach to create a series of full-stack applications using a combination of Ruby and Javascript with frameworks such as Node and React. 
+A 16-week intensive software engineering boot camp. I was working in a group setting following an Agile framework, using daily standups to ensure delivery of our target features. We used a TDD approach to create a series of full-stack applications using a combination of Ruby and Javascript with frameworks such as Node and React. 
 
 - Always aiming to sharpen my toolset & craft well-written, readable code 
 - Staying curious with new and popular technologies
@@ -144,7 +144,7 @@ I was a student on a 16-week intensive software engineering boot camp. I was wor
  
 <div align="right">October 2018 - December 2019</div>
 
-I was a student on a 10-week part-time course where I learnt to build responsive websites with HTML, CSS, and simple JavaScript. This course kick-started my career change, and I was able to transfer from a Delivery Management role to a Software Engineering role at the company I was working for at the time. 
+A 10-week part-time course where I learnt to build responsive websites with HTML, CSS, and simple JavaScript. This course kick-started my career change, and I was able to transfer from a Delivery Management role to a Software Engineering role at the company I was working for at the time. 
 
 ### [APMG](https://apmg-international.com/) - Agile Project Management  ® [Foundation and Practitioner](https://apmg-international.com/product/agile-project-management-agilepmr) 
 
