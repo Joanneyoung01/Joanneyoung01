@@ -36,11 +36,6 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS, HTM
 ## Projects
 
 <div align="center">
-
-  <p>To hear more about the tech stack and agile workflow - <a href="https://vimeo.com/user119631411/review/438595032/339ab95bcf">here</a> is a short video demonstration from the final project demo day</p>
-            <p>This is live <a href="https://reengage-volunteer-portal.herokuapp.com/">here</a><br>
-            Username: <i>admin-example</i><br>
-            Password: <i>passw0rd-portfolio</i></p>
 |                  |                       |                        |
 | :---------------: | :-------------------: | :--------------------: |
 | <a href="https://github.com/Joanneyoung01/re-engage-volunteer-portal" target="blank"><img width="200" src="https://i.ibb.co/T8CKCk3/reengage.png" alt="reengage" border="0"/></a> | <a href="https://github.com/Joanneyoung01/acebook" target="blank"><img width="200" src="https://i.ibb.co/BPSK7qm/acebook.png" alt="acebook" border="0" /></a> | <a href="https://github.com/Joanneyoung01/spacedout-airbnb" target="blank"><img width="200" src="https://i.ibb.co/Zhm4rQW/spacedout.png" alt="spacedout" border="0" /></a> |
