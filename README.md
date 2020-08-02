@@ -17,7 +17,7 @@
 
 **Introduction**
 
-I am a motivated and multi-faceted Junior Software Engineer. After my employer went into administration and being made redundant in March 2020, I decided to focus all of my time and energy into becoming a better developer. Now, I am on the search for new and exciting opportunities.
+I am a motivated and multi-faceted Junior Software Engineer. For the last four months I decided to focus all of my time and energy into becoming a better developer, by enrolling onto the Makers Academy coding boot-camp. Now, I am on the search for new and exciting opportunities.
 
 I can understand the development life cycle in-depth and am confident in all aspects of development, from writing clean test-driven code to domain modelling, documentation, and maintenance. I am a fast learner and extremely enthusiastic about technology and digital products. My industry experience in E-commerce, Content Management Systems, Atomic Design and Headless Architecture would prove valuable to any business.
 
@@ -55,7 +55,7 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS, HTM
 
 - JavaScript, Node and React - I have a variety of projects using full-stack capabilities and comfortable tackling efforts solo or working in collaborative groups
 - RESTful APIs - I can build using REST to send and receive requests
-- TDD approach - Makers Academy taught me the importance of honing a test drive approach to test functionality and behaviour first while maintaining high code coverage via unit tests and acceptance tests.
+- TDD approach - Makers academy reinforced the value of using a test drive approach and the importance of thinking behaviour first, while maintaining high code coverage via unit tests and acceptance tests.
 - Object Orientated Programming - Able to write code by breaking the objects into classes and methods/functions.
 - Debugging - I have a calm and rational approach to debugging, by gaining visibility of the bug, and tightening the loop until fixed.
 - Documentation writing - I can write clear and concise documentation for anything I write, allowing for the next developer to understand the code
@@ -73,7 +73,7 @@ At Beamly I have previously used:
 **Passionate about UI** During my time at Beamly my strengths were in being able to take a visual design in sketch, and transforming this into a fully functioning website/campaign page through Javascript, React and HTML/CSS, with pixel-perfect precision. I collaborated well with the UX team and was able to help meet the delivery deadlines which delighted clients. 
 
 
-**Keen eye for code detail** while re-platforming the legacy websites from WordPress to React, this required redirecting legacy URLs to the new URLs, this taught me about regular expressions as all redirects were implemented through a JSON file, and needed a keen eye for detail. Additionally, this was sometimes in Russian or Chinese, so required special attention.
+**Keen eye for code detail** while re-platforming the legacy websites from Drupal to React, this required redirecting legacy URLs to the new URLs, this taught me about regular expressions as all redirects were implemented through a JSON file, and needed a keen eye for detail. Additionally, this was sometimes in Russian or Chinese, so required special attention.
 
 **Accessibility** - After Topshop was sued for lack of accessibility in 2018, this was due to alt images not having appropriate 'alt' tags and colour contrasting below satisfactory standards. I suggested to the next company I worked for that this be addressed to avoid any legal issues in future.
 
@@ -89,10 +89,10 @@ At Beamly I have previously used:
 
 <div align="right">January 2019 - March 2020</div>
 
-Contributed to the build of headless CMS product and design system using HTML 5, SCSS, JavaScript, React.js and Redux Updated and improved suite of components as part of a dedicated agile squad.
+Contributed to the build of web platform and design system, utilising a third party headless CMS using HTML 5, SCSS, JavaScript, React.js and Redux. The product was designed to decrease the time to build performant sites of global beauty and consumer brands by 65%. Here I updated and improved suite of components as part of a dedicated agile squad,
 
-- Utilised component library to build pages and redesign websites, adhering to engineering principles - BEM/KISS/DRY code. 
-- Re-platformed brand websites Rimmel, Sally Hansen, Max Factor and Marc Jacobs within the broader development team from WordPress to React. Working on large codebases allowed me to work with legacy code as well a build new react components 
+- Utilised component library to build pages and redesign websites, adhering to S.O.L.I.D engineering principles
+- Re-platformed brand websites Rimmel, Sally Hansen, Max Factor and Marc Jacobs within the broader development team from Drupal to React. Working on large codebases allowed me to work with legacy code as well a build new react components 
 - I am confident using Visual Studio Code to build and test code, Github and command line for version and branch control, GoCD and Fastly for pipeline instrumentation and cache management. 
 - Jira for ticket management and Confluence for documentation.
 
