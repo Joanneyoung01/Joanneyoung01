@@ -186,7 +186,7 @@ is a charity which connects volunteers to older citizens in the local community 
 
 
 ### What I am working on now? ###
-I have a keen interest in Typescript, so I am currently building a project with the focus of learning this language as after reading blog articles about the security benefits (particularly on large codebases) of Typescript.
+I have a keen interest in Typescript, so I am currently building a project with the focus of learning this language as after reading blog articles about the security benefits (particularly on large codebases) of Typescript. [Voice Notes](https://github.com/voice-notes/web) is a full stack feature app which is built using Typescript and React in the front end, and Nodejs for the backend. With graphQL as a query language. I am really enjoying getting to know the tech stack and contributing to this project as it solves a real world problem. 
 
 
 
