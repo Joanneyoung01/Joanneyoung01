@@ -60,12 +60,7 @@ JavaScript (ES6), React, Node.js, Express, Sinatra, Git workflow, SASS, CSS, HTM
 - Debugging - I have a calm and rational approach to debugging, by gaining visibility of the bug, and tightening the loop until fixed.
 - Documentation writing - I can write clear and concise documentation for anything I write, allowing for the next developer to understand the code
 
-**Maintenance and pipeline instrumentation** - I have deployed my projects using Github Marketplace actions
-- Codacy (checks code quality)
-- Synk (checks for security vulnerabilities)
-- Dependabot (automates dependency updates)
-
-At Beamly I have previously used:
+In my previous role I have used:
 - GoCD (pipeline instrumentation)
 - Fastly (cache management)
 - AWS: Elastic Compute Cloud (EC2) (cloud-computing platform)
