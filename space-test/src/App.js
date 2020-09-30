@@ -19,8 +19,10 @@ export const App = () => {
     })
   })
  
+  
   return (
     <div className="App container">
+    <LikeButton />
     <Header />
     <select id="drop-down" onChange={e => setCategory(e.target.value)}>
       <option value="dragons">dragons</option>
@@ -36,15 +38,8 @@ export const App = () => {
               <img id={index} src={url} className="w-100"></img>
             ))}
           </div>
-        ))}
+        ))},
       </div>
-
-
-
-      
-
-      
-    
     </div>
   );
 }
