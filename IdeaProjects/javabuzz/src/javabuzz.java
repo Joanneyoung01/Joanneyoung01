@@ -1,4 +1,5 @@
 public class javabuzz {
-    public void buzzer(int i) {
+    public String buzzer(int i) {
+        return "java buzz!";
     }
 }
