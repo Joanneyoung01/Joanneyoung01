@@ -2,11 +2,11 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class javabuzzTest {
+class javaBuzzTest {
 
     @Test
-    void javabuzz(){
-        javabuzz j  = new javabuzz();
+    void javaBuzz(){
+        javaBuzz j  = new javaBuzz();
         assertEquals("java buzz!", j.buzzer(15));
 
     }
