@@ -17,7 +17,7 @@
 
 **Introduction**
 
-I am a motivated and multi-faceted Junior Software Engineer. For the last four months I decided to focus all of my time and energy into becoming a better developer, by enrolling onto the Makers Academy coding boot-camp. Now, I am on the search for new and exciting opportunities.
+I am a motivated and multi-faceted Software Engineer. For the last four months I decided to focus all of my time and energy into becoming a better developer, by enrolling onto the Makers Academy coding boot-camp. Now, I am on the search for new and exciting opportunities.
 
 I can understand the development life cycle in-depth and am confident in all aspects of development, from writing clean test-driven code to domain modelling, documentation, and maintenance. I am a fast learner and extremely enthusiastic about technology and digital products. My industry experience in E-commerce, Content Management Systems, Atomic Design and Headless Architecture would prove valuable to any business.
 
