@@ -17,9 +17,9 @@
 
 **Introduction**
 
-I am a motivated and multi-faceted Software Engineer. For the last four months I decided to focus all of my time and energy into becoming a better developer, by enrolling onto the Makers Academy coding boot-camp. Now, I am on the search for new and exciting opportunities.
+Highly skilled Developer with a strong preference for front-end architecture and
+extensive experience in designing and implementing web applications for major organisations, including Deloitte UK, Government Digital Service, and NHS Digital. Proficient in TypeScript, JavaScript, React, Next.js, Vue.js, and Node.js, with expertise in build shareable optimised packages, and enhancing front-end performance. Brings product startup experience and a focus on creating modular, scalable, and accessible solutions. Demonstrated ability to lead UI/UX development, manage sensitive data, and ensure seamless integration across multiple product teams. Skilled in mentoring team members and fostering effective communication with stakeholders.
 
-I can understand the development life cycle in-depth and am confident in all aspects of development, from writing clean test-driven code to domain modelling, documentation, and maintenance. I am a fast learner and extremely enthusiastic about technology and digital products. My industry experience in E-commerce, Content Management Systems, Atomic Design and Headless Architecture would prove valuable to any business.
 
 **Background**
 
